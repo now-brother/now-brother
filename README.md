@@ -39,7 +39,7 @@
 <br/>
 
 <!-- Certificates -->
-<h2 align="center">🏆 Certificates</h2>
+<h2 align="center">🏆 Certifications</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/정보처리기사-0A66C2?style=for-the-badge" />
