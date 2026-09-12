@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <h1>AI/Backenc Dev 이재형 (LEE JAEHYUNG)</h1>
+  <h1>AI/Backend Dev 이재형 (LEE JAEHYUNG)</h1>
   <p><b>Software Engineer · Backend &amp; LLM Engineering</b></p>
   <p>
     LLM을 개발 과정의 핵심 도구로 활용해 문제를 빠르게 구조화하고,<br/>
